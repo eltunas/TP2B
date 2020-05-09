@@ -18,7 +18,9 @@
   "homepage": "https://github.com/ORT-PabloFernandez/TP2B#readme",
   "dependencies": {
     "chalk": "^4.0.0",
+    "http": "0.0.1-security",
     "mongodb": "^3.5.7",
+    "nodemon": "^2.0.3",
     "validator": "^13.0.0"
   }
 }
